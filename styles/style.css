@@ -272,11 +272,11 @@ font-weight: bold;
     justify-content: space-between;
     margin:auto;
     width: 90%;
-    /* min-height: 250px; */
+    min-height: 250px;
 }
 
 
-}
+
 .footer__column_content_copyright{
     flex-basis:711px;
     position: relative;
