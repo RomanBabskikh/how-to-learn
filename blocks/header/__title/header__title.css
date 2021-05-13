@@ -7,4 +7,6 @@
     display: flex;
     margin-left: 64px;
     z-index: 2;
+    margin-top: 0;
+    margin-bottom: 0;
   }
