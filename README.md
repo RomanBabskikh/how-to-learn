@@ -9,4 +9,4 @@
 
 Я надеюсь я правильно понял задание)
 
-(ссылка на страницу)[https://romanbabskikh.github.io/how-to-learn/]
+[ссылка на страницу](https://romanbabskikh.github.io/how-to-learn/)
