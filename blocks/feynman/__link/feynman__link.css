@@ -6,7 +6,8 @@
     top:50%;
     right: 48px;
     text-decoration: none;
-    color:b#2f80ed;      
+    color:#2f80ed;
+    transition: opacity 0.2s linear;     
   }
 
   .feynman__link:hover{
