@@ -3,7 +3,8 @@
     line-height: 30px;
     font-size: 18px;
     font-weight: normal;
-    color:white; 
+    color:white;
+    transition: opacity 0.2s linear;
   }
 
   .footer__link:hover{
